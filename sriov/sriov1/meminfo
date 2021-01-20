@@ -1,0 +1,53 @@
+[root@sriovmellanox-0 ~]# cat /proc/meminfo
+MemTotal:       395725212 kB
+MemFree:        209152992 kB
+MemAvailable:   210261048 kB
+Buffers:            2116 kB
+Cached:          2718160 kB
+SwapCached:            0 kB
+Active:         12445312 kB
+Inactive:        2092480 kB
+Active(anon):   11863776 kB
+Inactive(anon):     6012 kB
+Active(file):     581536 kB
+Inactive(file):  2086468 kB
+Unevictable:      135832 kB
+Mlocked:          135832 kB
+SwapTotal:             0 kB
+SwapFree:              0 kB
+Dirty:              8172 kB
+Writeback:             0 kB
+AnonPages:      11953440 kB
+Mapped:           299000 kB
+Shmem:              8988 kB
+KReclaimable:     512920 kB
+Slab:            1334996 kB
+SReclaimable:     512920 kB
+SUnreclaim:       822076 kB
+KernelStack:       24080 kB
+PageTables:        42800 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:    113976524 kB
+Committed_AS:   15052908 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+Percpu:           164480 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:     16384 kB
+ShmemHugePages:        0 kB
+ShmemPmdMapped:        0 kB
+HugePages_Total:     160
+HugePages_Free:      140
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:    1048576 kB
+Hugetlb:        167772160 kB
+DirectMap4k:     1253692 kB
+DirectMap2M:    33017856 kB
+DirectMap1G:    368050176 kB
+[root@sriovmellanox-0 ~]# 
+
+

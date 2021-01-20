@@ -1,0 +1,12 @@
+[root@sriovmellanox-0 ~]# ethtool -i ens1f0
+driver: mlx5_core
+version: 5.0-0
+firmware-version: 16.28.2006 (MT_0000000183)
+expansion-rom-version: 
+bus-info: 0000:12:00.0
+supports-statistics: yes
+supports-test: yes
+supports-eeprom-access: no
+supports-register-dump: no
+supports-priv-flags: yes
+
